@@ -27,7 +27,7 @@ Especificaciones del equipo físico sobre el que corren todos los laboratorios d
 |**Sistema Operativo** | Windows 11 Pro |
 |**Idioma** | Español (España) |
 
-> El i9-13900K es un único socket con die monolítico, por lo que no hay topología NUMA física en este host. Las VM para SQL de mis laboratorios serán configuradas con **nodos NUMA virtuales** en Hyper⁠-⁠V, con propósito de practicar el comportamiento lógico de SQL Server frente a una topología NUMA.
+> El i9-13900K es un único socket con die monolítico, por lo que no hay topología NUMA física en este host. Las VM para SQL de alguno de los laboratorios serán configuradas con **nodos NUMA virtuales** en Hyper⁠-⁠V, con propósito de practicar el comportamiento lógico de SQL Server frente a una topología NUMA.
 
 ## Base común de los laboratorios
 
